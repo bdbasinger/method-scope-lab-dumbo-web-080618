@@ -1,9 +1,6 @@
-def catch_phrase(phrase)
-  puts phrase
+def catch_phrase #(phrase)
+  puts "Phrase"
 end
 
 
 
-a = "Hey there, this is a phrase!"
-
-catch_phrase(a)
